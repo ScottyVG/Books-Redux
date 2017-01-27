@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Books Application made with the ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
